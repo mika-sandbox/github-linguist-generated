@@ -1,0 +1,2 @@
+GitHub で diff らない
+
